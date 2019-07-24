@@ -23,7 +23,7 @@ for (drinkIndex = 0; drinkIndex < faviroteDrink.length; drinkIndex++) {
     console.log(faviroteDrink[drinkIndex]);
 }
 
-*/
+
 
 let faviroteFilm = [
     "Tangled",
@@ -36,3 +36,34 @@ faviroteFilm.push ("looper", "Rocketman")
 for (filmIndex = 0; filmIndex < faviroteFilm.length; filmIndex++) {
     console.log(faviroteFilm[filmIndex]);
 }
+for look is above 
+
+let cards = ["Diamond", "Spade", "Heart", "Club"];
+let currentCard ="";
+
+while(currentCard != "Spade"){
+    console.log(currentCard);
+    currentCard = cards [Math.floor(Math.random()*4)];
+}
+
+let faviroteFilm = [
+    "Tangled",
+    "HTTYD",
+    "lionking",
+    "GohstBusters",
+    "Bambi"
+];
+
+faviroteFilm.push ("looper", "Rocketman")
+
+if (faviroteFilm[3] === "GohstBusters"){
+    console.log("found it")
+}
+else {
+    console.log ("booooooo")
+}
+for (filmIndex = 0; filmIndex < faviroteFilm.length; filmIndex++) {
+    console.log(faviroteFilm[filmIndex]);
+}
+
+the above works but isnt fully correct see the one on code share for the correct version. */
