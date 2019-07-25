@@ -1,6 +1,6 @@
 /*
 console.log("All around the world.".toUpperCase().charAt(8))
-// it has ext6racted the charictor 8 and showing it to us on the dashbord. to get the true 8th charistor count from 0 not 1
+// it has extracted the charictor 8 and showing it to us on the dashbord. to get the true 8th charistor count from 0 not 1
 let favouriteDrink = "Tea";
 console.log("My favourite drink is: " + favouriteDrink);
 // above is a log variable showing that my favourite drink is tea. tea is stored in the variable and consoul.log extracts it. 

@@ -9,10 +9,10 @@ let spaceEight = " "
 let spaceNine= " "
 
 if (spaceOne == "X" && spaceTwo =="X" && spaceThree =="X"){
-    console.log("winner");
+    console.log("Winner Player One");
 }
 else if (spaceOne =="O" && spaceTwo =="O" && spaceThree =="O"){
-console.log ("WinnerTwo")
+console.log ("Winner Player Two")
 }
  else {
     console.log("Loser")

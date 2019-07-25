@@ -12,6 +12,7 @@ if (1 != "1"){
     
 
     let age = 17;
+    
     if (age > 17){
 console.log("i can serve you");
 }
